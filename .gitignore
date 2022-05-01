@@ -1,0 +1,17 @@
+.env
+__pycache__/
+__pycache__/*
+media/
+**/migrations/*
+**/migrations/**
+!**/migrations
+*.pyc
+!**/migrations/__init__.py
+.idea/
+db.sqlite3
+library-management-env/
+manage.py
+LibraryManagement/__init__.py
+LibraryManagement/__pycache__
+
+
